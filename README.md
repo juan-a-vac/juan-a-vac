@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋, soy Juan!</h1>
+<h1 align="center">Hola 👋, soy Juan</h1>
 <h3 align="center">Soy un Ingeniero Biomédico especializado en Data Analytics, Data Science y Machine Learning, apasionado por aplicar la última tecnología para la obtención de insights y toma de decisiones basada en datos para la obtencion de soluciones innovadoras.</h3>
 
-- 🌱 Actualmente estoy realizando cursos de **Deep Learning, Docker y Testing de software**
+- 🌱 Actualmente estoy realizando cursos de **Deep Learning, Docker , Testing de software y AWS**
 
 - 📫 Me puedes encontrar en **juan.a.vaca.11@gmail.com**
 
