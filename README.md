@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, yo soy Juan!</h1>
+<h1 align="center">Hola 👋, soy Juan!</h1>
 <h3 align="center">Soy un Ingeniero Biomédico especializado en Data Analytics, Data Science y Machine Learning, apasionado por aplicar la última tecnología para la obtención de insights y toma de decisiones basada en datos para la obtencion de soluciones innovadoras.</h3>
 
 - 🌱 Actualmente estoy realizando cursos de **Deep Learning, Docker y Testing de software**
